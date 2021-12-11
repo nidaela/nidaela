@@ -7,7 +7,6 @@
   <br/>
   <img src="connect.gif" alt="Connect">
   <br/>
-  <div align="center">
-    <img src="mail.png" alt="Mail"> <img src="linkedin.png" alt="Linkedin">
-  </div>
+  <a href="" rel="Mail"><img src="mail.png" alt="Mail" /></a>
+  <a href="(www.linkedin.com/in/daniela-ramírez-cortés)" rel="Linkedin"><img src="linkedin.png" alt="Linkedin" /></a>
 </div>
