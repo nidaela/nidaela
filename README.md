@@ -3,8 +3,6 @@
   <br/>
   <img src="hi.gif" alt="Hi">
   <br/>
-  <img src="tools.gif" alt="Tools">
-  <br/>
   <img src="connect.gif" alt="Connect">
   <br/>
   <a href="" rel="Mail"><img src="mail.png" alt="Mail" /></a>
